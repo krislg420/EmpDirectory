@@ -3,6 +3,7 @@ import SearchForm from "./SearchForm";
 import EmployeeCard from "./EmployeeCard";
 import API from "../utils/API";
 import "../styles/Result.css";
+// eslint-disable-next-line 
 const MaxResults = 20;
 
 class SearchResultContainer extends Component {
