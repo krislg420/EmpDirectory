@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/krislg420/EmpDirectory/static/css/main.80e25bae.chunk.css",
+    "main.js": "/krislg420/EmpDirectory/static/js/main.c96c45d3.chunk.js",
+    "main.js.map": "/krislg420/EmpDirectory/static/js/main.c96c45d3.chunk.js.map",
+    "runtime-main.js": "/krislg420/EmpDirectory/static/js/runtime-main.51925442.js",
+    "runtime-main.js.map": "/krislg420/EmpDirectory/static/js/runtime-main.51925442.js.map",
+    "static/js/2.86ccfed4.chunk.js": "/krislg420/EmpDirectory/static/js/2.86ccfed4.chunk.js",
+    "static/js/2.86ccfed4.chunk.js.map": "/krislg420/EmpDirectory/static/js/2.86ccfed4.chunk.js.map",
+    "index.html": "/krislg420/EmpDirectory/index.html",
+    "precache-manifest.b312fa76b199bd839fe231343f05721d.js": "/krislg420/EmpDirectory/precache-manifest.b312fa76b199bd839fe231343f05721d.js",
+    "service-worker.js": "/krislg420/EmpDirectory/service-worker.js",
+    "static/css/main.80e25bae.chunk.css.map": "/krislg420/EmpDirectory/static/css/main.80e25bae.chunk.css.map",
+    "static/js/2.86ccfed4.chunk.js.LICENSE.txt": "/krislg420/EmpDirectory/static/js/2.86ccfed4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51925442.js",
+    "static/js/2.86ccfed4.chunk.js",
+    "static/css/main.80e25bae.chunk.css",
+    "static/js/main.c96c45d3.chunk.js"
+  ]
+}
